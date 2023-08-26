@@ -1,6 +1,6 @@
 # CodeClauseInternship_Projects
-1. Churn Prediction in Telecom Industry using Logistic Regression:\
-   This project uses Logistic Regression to predict churn in the Telecom Industry. Churn rate would refer to the percentage of customers who close their contract or
+1. **Churn Prediction in Telecom Industry using Logistic Regression:**\
+   This project uses _Logistic Regression_ to predict churn in the Telecom Industry. Churn rate would refer to the percentage of customers who close their contract or
    subscription with your company in any given time period. I have used a kaggle API for obtaining the .csv file from kaggle *(!kaggle datasets download -d ashishkumarsingh123/telecom-churn-dataset)*.\
    The report of the Logistic regression has the following parts:\
    **Precision:** Precision is a measure of how many of the instances predicted as positive were actually positive.\
