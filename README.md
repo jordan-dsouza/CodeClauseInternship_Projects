@@ -27,7 +27,8 @@
 3. **Market Basket Analysis in Python using Apriori Algorithm:**\
    This project uses the _Apriori Algorithm_ to analyse a market basket. The **_apyori_** library is a Python implementation of the Apriori algorithm, a classic algorithm used in association rule mining.   
    Association rule mining is a technique used to discover interesting relationships, patterns, and associations within large datasets. The Apriori algorithm, in particular, is widely used for finding frequent 
-   itemsets and generating association rules from transactional datasets. Kaggle API command: !kaggle datasets download -d irfanasrullah/groceries\
+   itemsets and generating association rules from transactional datasets. Kaggle API command: _!kaggle datasets download -d irfanasrullah/groceries_\
+   The Apriori algorithm is based on the observation that if an itemset is frequent (meaning it appears in a sufficient number of transactions), then all of its subsets must also be frequent. This property is       called the "Apriori property." The algorithm systematically searches for frequent itemsets by generating larger and larger itemsets based on previously found frequent itemsets.\
    **Key Concepts and Terms:**
 
    **Support:** The support of an itemset is the proportion of transactions in which the itemset appears.
